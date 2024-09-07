@@ -21,7 +21,7 @@ repository               : "skp1999/saurabh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Saurabh Kumar Pandey"
   pronouns         : # example: "she/her"  
   location         : "Abu Dhabi, UAE"
