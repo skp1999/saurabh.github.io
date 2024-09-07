@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I am a Research Associate II in the [Natural Language Processing](https://mbzuai.ac.ae/research/department/natural-language-processing-department/) Department  at [MBZUAI](https://mbzuai.ac.ae/). I am currently advised by [Prof. Monojit Choudhury](https://mbzuai.ac.ae/study/faculty/monojit-choudhury/), where I am working at the intersection of Culture and LLMs.
 
-Previously, I was working as an Associate Research Staff Member at [V-Labs] (https://www.v-labs.ai/), where I worked at the intersection of CV and NLP, where I was involved in building products for Information Extraction from Financial documents using LLMs.
+Previously, I was working as an Associate Research Staff Member at [V-Labs](https://www.v-labs.ai/), where I worked at the intersection of CV and NLP. I was involved in building end to end products for Information Extraction from Financial documents using LLMs.
 
 A data-driven personal website
 ======
