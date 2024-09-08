@@ -21,4 +21,13 @@ Before joining MBZUAI, I was working as an Associate Research Staff Member at [V
 - Aspect based Sentiment Analysis
 
 ## News
-- [<span style="color: red">July 2024</span>] Joined MBZUAI as Research Associate II
+- [<span style="color: red">Jul 2024</span>] Joined MBZUAI as Research Associate II
+- [<span style="color: red">Feb 2024</span>] Paper accepted at LREC-COLING 2024
+- [<span style="color: red">Jan 2024</span>] Paper accepted at EACL 2024
+- [<span style="color: red">Dec 2023</span>] Attending EMNLP 2023 in 
+- [<span style="color: red">Oct 2023</span>] Paper accepted at EMNLP 2023
+- [<span style="color: red">Mar 2023</span>] Paper published in PNAS
+- [<span style="color: red">Dec 2022</span>] Paper accepted at PNAS
+- [<span style="color: red">Jun 2022</span>] Joined V-Labs as Associate Research Staff Member
+- [<span style="color: red">May 2022</span>] Graduated from IIT Kharagpur
+- [<span style="color: red">May 2022</span>] Defended Masters' Thesis at IIT Kharagpur 
