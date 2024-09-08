@@ -5,8 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
 
+---
 Hello! I am a Research Associate II in the [Natural Language Processing](https://mbzuai.ac.ae/research/department/natural-language-processing-department/) Department  at [MBZUAI](https://mbzuai.ac.ae/). I am currently advised by [Prof. Monojit Choudhury](https://mbzuai.ac.ae/study/faculty/monojit-choudhury/), where I am working at the intersection of Culture and LLMs.
 
 I graudated with an Integrated Dual Degree (M.Tech + B.Tech) with a focus in [Computer Science & Engineering](https://cse.iitkgp.ac.in/) (specialization in AI & Applications) from Indian Institute of Technology, Kharagpur. During my undergrad, I worked with [Prof. Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/) and [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/). I am also associated with Complex Networks and Research Group ([CNeRG](https://cnerg-iitkgp.github.io/)).
